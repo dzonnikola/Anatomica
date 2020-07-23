@@ -1,0 +1,23 @@
+#nalog{
+	background-color: #ecf0f1;
+	padding: 150px 0 100px 0;
+}
+
+#formaEdit{
+	background-color: #fff;
+	margin: 0px 120px;
+	padding: 60px 60px;
+	border: 2px solid #0671ba;
+	border-radius: 30px;
+
+}
+
+.form-control{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+#submitEdit{
+	border-radius: 10px;
+	width: 250px;
+}
